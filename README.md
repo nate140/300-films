@@ -4,7 +4,7 @@
 
 ---
 
-## 📖 À propos
+## À propos
 
 **300 films, un profil** est une application web interactive qui te permet de :
 
@@ -16,28 +16,28 @@ Aucun compte, aucun email, aucune inscription. Juste toi et le cinéma.
 
 ---
 
-## ✨ Fonctionnalités
+## Fonctionnalités
 
-- 🎞️ **Sélection de 300 films** – Les plus populaires sur IMDb et Letterboxd des années 60 à aujourd'hui
-- 📊 **Profil détaillé** avec statistiques sur :
+- **Sélection de 300 films** – Les plus populaires sur IMDb et Letterboxd des années 60 à aujourd'hui
+- **Profil détaillé** avec statistiques sur :
   - Tes genres préférés
   - Les pays de cinéma que tu fréquentes
   - Tes décennies de prédilection
   - Ton réalisateur fétiche
   - Ton acteur fétiche
-- 📈 **Barre de progression** en temps réel
-- 📄 **Pagination** pour naviguer facilement parmi les films
-- 🔒 **100% local** – aucune donnée envoyée, aucun serveur
+- **Barre de progression** en temps réel
+- **Pagination** pour naviguer facilement parmi les films
+- **100% local** – aucune donnée envoyée, aucun serveur
 
 ---
 
-## 🚀 Démo
+## Démo
 
 👉 [Accéder au site](https://VOTRE_USERNAME.github.io/VOTRE_REPO/)
 
 ---
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 
 | Technologie | Usage |
 |---|---|
@@ -49,7 +49,7 @@ Aucune dépendance externe. Aucun framework. Léger et rapide.
 
 ---
 
-## 📁 Structure du projet
+## Structure du projet
 
 ```
 /
@@ -60,7 +60,7 @@ Aucune dépendance externe. Aucun framework. Léger et rapide.
 
 ---
 
-## 💻 Installation locale
+## Installation locale
 
 ```bash
 # Cloner le dépôt
@@ -75,7 +75,7 @@ Ou simplement ouvrir `index.html` directement dans ton navigateur — aucun serv
 
 ---
 
-## 🎯 Comment ça marche ?
+## Comment ça marche ?
 
 1. **Page d'accueil** – Clique sur *Commencer*
 2. **Sélection** – Parcours les 300 films et coche ceux que tu as vus
@@ -83,17 +83,17 @@ Ou simplement ouvrir `index.html` directement dans ton navigateur — aucun serv
 
 ---
 
-## 📌 Source des données
+## Source des données
 
 La sélection de films est établie à partir de :
-- 🏆 [Top IMDb](https://www.imdb.com/chart/top/) – Films les mieux notés
-- 🎞️ [Top Letterboxd](https://letterboxd.com/films/popular/) – Films les plus populaires
+- [Top IMDb](https://www.imdb.com/chart/top/) – Films les mieux notés
+- [Top Letterboxd](https://letterboxd.com/films/popular/) – Films les plus populaires
 
 Couverture : **années 1960 à aujourd'hui**, sur 6 décennies.
 
 ---
 
-## 🤝 Contribution
+## Contribution
 
 Les suggestions sont les bienvenues ! N'hésite pas à ouvrir une [issue](https://github.com/VOTRE_USERNAME/VOTRE_REPO/issues) pour :
 - Signaler un bug
@@ -102,10 +102,7 @@ Les suggestions sont les bienvenues ! N'hésite pas à ouvrir une [issue](https:
 
 ---
 
-## 📄 Licence
+## Licence
 
 Ce projet est sous licence [MIT](LICENSE).
 
----
-
-<p align="center">Fait avec ❤️ pour les cinéphiles</p>
