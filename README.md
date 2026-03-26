@@ -33,7 +33,7 @@ Aucun compte, aucun email, aucune inscription. Juste toi et le cinéma.
 
 ## Démo
 
-👉 [Accéder au site][(https:////nate140.github.io/300-films/)]
+👉 [Accéder au site][(https://nate140.github.io/300-films/)]
 
 ---
 
